@@ -11,7 +11,7 @@ class BerkSpiderSpider(scrapy.Spider):
                 playwright=True,
                 playwright_include_page=True,
                 playwright_page_coroutines=[
-                    PageMethod('wait_for_selector', 'div#rosterResults')
+                    PageMethod('wait_for_selector', 'div#rosterResults'),
                 ]
             )
         )
