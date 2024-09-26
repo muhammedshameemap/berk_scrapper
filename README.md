@@ -22,13 +22,13 @@ The `BerkSpider` spider scrapes a list of real estate agents from the [Berkshire
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/berk_spider.git
+   git clone https://github.com/muhammedshameemap/berk_scrapper.git
    cd berk_spider
    ```
 
 2. **Install the Required Packages**:
    ```bash
-   git clone https://github.com/yourusername/berk_spider.git
+   git clone https://github.com/muhammedshameemap/berk_scrapper.git
    cd berk_spider
    ```
 
